@@ -1,8 +1,8 @@
 [
 {
-  title: 'Title1',
-  composer: 'Composer1',
-  link: '',
+  'title': 'Title1',
+  'composer': 'Composer1',
+  'link': '',
 },
 {
   title: 'Title2',
