@@ -1,52 +1,52 @@
-{"data": [
+[
 {
-  'title': 'Title1',
-  'composer': 'Composer1',
-  'link': '',
+  "title": "Title1",
+  "composer": "Composer1",
+  "link": ""
 },
 {
-  title: 'Title2',
-  composer: 'Composer2',
-  link: '',
+  "title": "Title2",
+  "composer": "Composer2",
+  "link": ""
 },
 {
-  title: 'Title3',
-  composer: 'Composer3',
-  link: '',
+  "title": "Title3",
+  "composer": "Composer3",
+  "link": ""
 },
 {
-  title: 'Title4',
-  composer: 'Composer4',
-  link: '',
+  "title": "Title4",
+  "composer": "Composer4",
+  "link": ""
 },
 {
-  title: 'Title5',
-  composer: 'Composer5',
-  link: '',
+  "title": "Title5",
+  "composer": "Composer5",
+  "link": ""
 },
 {
-  title: 'Title6',
-  composer: 'Composer6',
-  link: '',
+  "title": "Title6",
+  "composer": "Composer6",
+  "link": ""
 },
 {
-  title: 'Title7',
-  composer: 'Composer7',
-  link: '',
+  "title": "Title7",
+  "composer": "Composer7",
+  "link": ""
 },
 {
-  title: 'Title8',
-  composer: 'Composer8',
-  link: '',
+  "title": "Title8",
+  "composer": "Composer8",
+  "link": ""
 },
 {
-  title: 'Title9',
-  composer: 'Composer9',
-  link: '',
+  "title": "Title9",
+  "composer": "Composer9",
+  "link": ""
 },
 {
-  title: 'Title10',
-  composer: 'Composer10',
-  link: '',
+  "title": "Title1",,
+  "composer": "Composer1",,
+  "link": ""
 },
-]}
+]
