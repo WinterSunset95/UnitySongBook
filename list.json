@@ -3,36 +3,42 @@
   "title": "Shape of you",
   "composer": "Ed Sheeran",
   "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/shape_of_you.txt",
+  "num": 6,
   "song": "https://wintersunset95.github.io/UnitySongBook/audio/Ed_Sheeran_-_Shape_Of_You_(Lyrics)(256k).mp3"
 },
 {
   "title": "Until The End",
   "composer": "Breaking Benjamin",
   "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/until_the_end.txt",
+  "num": 3,
   "song": "https://wintersunset95.github.io/UnitySongBook/audio/FadedTrimmed.aac"
 },
 {
   "title": "Happy",
   "composer": "Pharell Williams",
   "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/happy.txt",
+  "num": 1,
   "song": "https://wintersunset95.github.io/UnitySongBook/audio/happy.mp3"
 },
 {
   "title": "Khawvel mite tih angin",
   "composer": "Pu Lalhmunsiama",
   "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/khawvel_mite_tih_angin-pu_lalhmunsiama.png",
-  "song": " "
+  "song": " ",
+  "num": 5
 },
 {
   "title": "Hria se hnamtin hian",
   "composer": "C. Roliana",
   "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/hria_se_hnamtin_hian-c-roliana.png",
-  "song": " "
+  "song": " ",
+  "num": 2
 },
 {
   "title": "Ni Ṭhalo le hun Ṭhalo",
   "composer": "C. Roliana",
   "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/ni_tha_lo_le_hun_tha_lo-c-roliana.png",
-  "song": " "
+  "song": " ",
+  "num": 4
 }
 ]
