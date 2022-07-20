@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <img id='lyrics' src="./assets/error.png" alt="" style="width: 100vw;">
+  <script>
+    const url = window.location.href;
+    const param = url.split('?')[1];
+    const source = param.split('=')[1];
+    document.getElementById('lyrics').src = source;
+  </script>
+</body>
+</html>
