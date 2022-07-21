@@ -1,8 +1,8 @@
 [
 {
-  "title": "Shape of you",
-  "composer": "Ed Sheeran",
-  "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/shape_of_you.txt",
+  "title": "Khawvelin a nghahfak",
+  "composer": "Pu Pachhunga",
+  "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/khawvelin_a_nghahfak-pu_pachhunga.png",
   "num": 6,
   "song": "https://wintersunset95.github.io/UnitySongBook/audio/Ed_Sheeran_-_Shape_Of_You_(Lyrics)(256k).mp3"
 },
@@ -47,5 +47,12 @@
   "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/leilung_pian_hma_lal_rorel_chu-t-lalrokima.png",
   "song": " ",
   "num": 7
+},
+{
+  "title": "Bawchhiatna suala thi",
+  "composer": "T Lalrokima",
+  "link": "https://wintersunset95.github.io/UnitySongBook/lyrics/bawchhiatna_suala_thi-t-lalrokima.png",
+  "song": " ",
+  "num": 8
 }
 ]
